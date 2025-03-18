@@ -1,5 +1,8 @@
 # AI 小说推文自动化工作流
 
+[成片-6小时](https://www.bilibili.com/video/BV1mmQvYEEwb/)
+[爱发电](https://afdian.com/a/dmzw1918)
+
 ## 项目结构
 
 ```
